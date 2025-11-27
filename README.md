@@ -15,6 +15,7 @@ Bài tập thực hành môn **Hệ phân tán** (IT4611) - Đại học Bách k
 |---------|-------|
 | `ChatRoomApp` | Ứng dụng chat real-time với Node.js và Socket.IO |
 | `RabbitRPC` | RPC Server/Client sử dụng RabbitMQ (Java) |
+| `QoS effects on video stream` | Demo ảnh hưởng của QoS lên video streaming |
 
 ## Công nghệ sử dụng
 
@@ -30,4 +31,5 @@ Bài tập thực hành môn **Hệ phân tán** (IT4611) - Đại học Bách k
 ## License
 
 MIT License - xem file [LICENSE](LICENSE)
+
 
